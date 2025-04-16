@@ -15,7 +15,7 @@ A modern e-commerce platform for handmade bags, clothes, and accessories.
 ## Tech Stack
 
 - Backend: Node.js, Express.js, MongoDB
-- Frontend: React.js (coming soon)
+- Frontend: React.js
 - Authentication: JWT
 - Payment Processing: Stripe
 
